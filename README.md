@@ -1,2 +1,2 @@
-# matplotlib-seaborn-plotting
-ALU Machine Learning assignment submissions
+# Machine Learning
+This repository contains my implementation of basic Machine Learning algorithms.
