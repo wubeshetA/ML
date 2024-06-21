@@ -2,7 +2,7 @@
 
 ## Description
 
-The goal of this project is to classify different types of vegetables using transfer learning with pretrained models. The dataset used for this task contains images of various vegetables, divided into training and testing sets. The pretrained models utilized in this project include InceptionV3, MobileNetV3Small, and MobileNet.
+The goal of this project is to classify different types of vegetables using transfer learning with pretrained models. The dataset used for this task contains images of various vegetables, divided into training and testing sets. The pre-trained models utilized in this project include InceptionV3, MobileNetV3Small, and MobileNet.
 
 ## Dataset
 
@@ -17,11 +17,11 @@ To assess the performance of the fine-tuned models, the following evaluation met
 ## Findings
 
 ### Strengths
-- **Transfer Learning**: Leveraging pretrained models significantly reduces training time and computational resources while maintaining high accuracy.
+- **Transfer Learning**: Leveraging pre-trained models significantly reduces training time and computational resources while maintaining high accuracy.
 - **Data Augmentation**: Applying data augmentation techniques improves model generalization by preventing overfitting.
 
 ### Limitations
-- **Fixed Feature Extraction**: Freezing layers of pretrained models might not capture specific features relevant to the new dataset.
+- **Fixed Feature Extraction**: Freezing layers of pre-trained models might not capture specific features relevant to the new dataset.
 - **Limited Dataset**: The performance might be constrained by the size and diversity of the dataset.
 
 ## Experiment Results
